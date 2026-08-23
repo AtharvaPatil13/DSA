@@ -15,16 +15,3 @@ My Data Structures and Algorithms practice repository.
 - Minimum Size Subarray Sum
 
 ## Repository Structure
-
-```text
-DSA/
-├── Two_pointers/
-│   ├── 3sum=0/
-│   ├── 3sumclose2tar/
-│   ├── DutchNationalFlag/
-│   ├── Remove_duplicates/
-│   └── merge2sorted/
-│
-├── Sliding Window/
-│
-└── README.md
