@@ -13,5 +13,7 @@ My Data Structures and Algorithms practice repository.
 
 ### Sliding Window
 - Minimum Size Subarray Sum
+- Fruit Basket
+- Longest substring with K distict
+- No repeating substring
 
-## Repository Structure
